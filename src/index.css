@@ -1,0 +1,17 @@
+@import url('https://fonts.cdnfonts.com/css/transponder-aoe');
+html, body {
+height: 100%;
+-webkit-user-select: none; /* Safari 3.1+ */
+-moz-user-select: none; /* Firefox 2+ */
+-ms-user-select: none; /* IE 10+ */
+user-select: none; /* Standard syntax */
+}
+
+body {
+display: flex;
+justify-content: center;
+background: rgb(194 206 219);
+background: linear-gradient(205deg, rgb(238 233 245) 0%, rgb(30 34 42) 100%);
+margin: 0;
+font-family:'poppins', sans-serif;
+}
